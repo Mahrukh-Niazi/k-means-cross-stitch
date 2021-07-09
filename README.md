@@ -1,6 +1,7 @@
 # cross-stitch
 Converts PNG or JPEG image file to a cross stitch pattern using R.
 
+
 File Descriptions:
 
 assignment_description.pdf: Overview of assignment
@@ -8,6 +9,7 @@ assignment_description.pdf: Overview of assignment
 fuctions.R: All the functions needed to convert image file to cross stitch pattern
 
 Vignette.pdf: A worked example of how to use the functions in functions.R
+
 
 *Disclaimer*: 
 
