@@ -1,4 +1,4 @@
-# cross-stitch
+# k-means-cross-stitch
 Converts PNG or JPEG image file to a cross stitch pattern using k-means clustering in R.
 
 
